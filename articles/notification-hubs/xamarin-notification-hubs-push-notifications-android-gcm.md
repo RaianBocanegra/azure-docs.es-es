@@ -64,7 +64,7 @@ El centro de notificaciones ya está configurado para funcionar con FCM y dispon
 1. En Visual Studio, seleccione **Archivo**, **Nuevo** y, finalmente, **Proyecto**. 
    
       ![Visual Studio: creación de un nuevo proyecto de Android](./media/partner-xamarin-notification-hubs-android-get-started/new-project-dialog.png)
-2. En la ventana del **Explorador de soluciones**, expanda **Propiedades**y haga clic en **AndroidManifest.xml**. Actualice el nombre del paquete para que coincida con el nombre del paquete que especificó al agregar Firebase Cloud Messaging al proyecto en Google Firebase Console. 
+2. En la ventana del **Explorador de soluciones**, expanda **Propiedades** y haga clic en **AndroidManifest.xml**. Actualice el nombre del paquete para que coincida con el nombre del paquete que especificó al agregar Firebase Cloud Messaging al proyecto en Google Firebase Console. 
 
       ![Nombre del paquete en GCM](./media/partner-xamarin-notification-hubs-android-get-started/package-name-gcm.png)
 3. Haga clic con el botón derecho en el proyecto y seleccione **Administrar paquetes NuGet...** 
